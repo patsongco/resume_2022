@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Patrick Songco",
-    "description":"Data Science and Blockchain Technology",
+    "description":"Computer Science graduate interested in Data Science and Blockchain Technology",
     "image":"profilepic.jpg",
     "bio":"Analytically minded recent Computer Science graduate with a desire for knowledge and problem solving. My professional goals are to apply the understanding and methodologies I have accumulated to real world applications and continually grow my skillset in Data Science and Machine Learning.",
     "email": "pat.songco@gmail.com",
@@ -12,7 +12,7 @@
       "city":"Sydney",
       "state":"NSW"
     },
-    "website": "https://patsongco.github.io/resume_2023/",
+    "website": "https://patsongco.github.io/resume/",
     "resumedownload":"files/PATRICK SONGCO CV.pdf",
     "social":[
       {
@@ -73,12 +73,6 @@
         "title":"RBS Analytics Graduate ",
         "years":"February 2022 - Present",
         "description":{
-          "first": "Currently working in the Risk and Remediation Data Science Team. Responsibilities include:",
-          "second": "Model development, testing, deployment and documentation",
-          "third": "Feature engineering using Natural Language Processing",
-          "fourth": "Liasing with relevant stakeholders to obtain clean and useful data"
-        },
-        "description2":{
           "first": "Currently working in the Risk and Remediation Data Science Team. Responsibilities include:",
           "second": "Model development, testing, deployment and documentation",
           "third": "Feature engineering using Natural Language Processing",
